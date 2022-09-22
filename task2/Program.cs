@@ -7,14 +7,14 @@
 не больше 8ми знаков.*/
 
 Console.WriteLine("Введите число");
-int c = int.Parse(Console.ReadLine()!);
+int x = int.Parse(Console.ReadLine()!);
 
-int x = c;
+
 int[] a = new int[x.ToString().Length];
 for (int i = 0; i<a.Length; i++)
 {
-   a[i] = x % 10;
-   x /=10;
+   a[i] = (x % 10);
+   x /= 10;
 }
 Array.Reverse(a);
 
