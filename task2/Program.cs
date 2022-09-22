@@ -20,7 +20,7 @@ Array.Reverse(a);
 
 if (a.Length>=3) 
 {
-   Console.WriteLine(a[2]);
+   Console.WriteLine($" Третья цифра вашего числа {a[2]}");
 }
 else
 {
