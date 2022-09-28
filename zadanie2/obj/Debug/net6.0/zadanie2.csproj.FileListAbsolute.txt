@@ -1,0 +1,15 @@
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.csproj.AssemblyReference.cache
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.AssemblyInfoInputs.cache
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.AssemblyInfo.cs
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.csproj.CoreCompileInputs.cache
+E:\task3\D.Z-2\zadanie2\bin\Debug\net6.0\zadanie2.exe
+E:\task3\D.Z-2\zadanie2\bin\Debug\net6.0\zadanie2.deps.json
+E:\task3\D.Z-2\zadanie2\bin\Debug\net6.0\zadanie2.runtimeconfig.json
+E:\task3\D.Z-2\zadanie2\bin\Debug\net6.0\zadanie2.dll
+E:\task3\D.Z-2\zadanie2\bin\Debug\net6.0\zadanie2.pdb
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.dll
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\refint\zadanie2.dll
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.pdb
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\zadanie2.genruntimeconfig.cache
+E:\task3\D.Z-2\zadanie2\obj\Debug\net6.0\ref\zadanie2.dll
